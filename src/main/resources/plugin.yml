@@ -1,0 +1,7 @@
+name: AthamusRPGCore
+version: '${project.version}'
+main: net.athamusmc.rpgcore.AthamusRPGCore
+api-version: 1.19
+authors: [JoshScoper]
+description: Athamus' core rpg plugin.
+website: play.athamus-mc.net
