@@ -1,0 +1,17 @@
+#Athamus RPG Core Config#
+settings:
+  modules:
+    characters:
+      creation-npc: "&2&lJoin World"
+      max-characters: 9
+      spawn-world: "zone1"
+      lobby-world: "lobby"
+    database:
+      jdbc: "jdbc:mysql://na02-db.cus.mc-panel.net:3306/db_696128"
+      username: "db_696128"
+      password: "19587bc7f7"
+    economy:
+      starting-balance: 100
+      gold: "ᓁ"
+      silver: "s"
+      copper: "c"
